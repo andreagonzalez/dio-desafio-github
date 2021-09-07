@@ -1,4 +1,9 @@
 # dio-desafio-github
 Projeto do desafio de Git e GitHub da DIO - Java Dev Iniciante
 
-Repositório do desafio da DIO de GIT e GitHub do Prof. Venilton
+Repositório criado para os desafios de Projetos
+
+
+##Links úteis
+
+[Sintaxe básica Markdown] (https://www.markdownguide.org/)
